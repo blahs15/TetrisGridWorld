@@ -1,0 +1,7 @@
+public interface CanTurn
+   {
+   public static final boolean CLOCKWISE = true;
+   public static final boolean COUNTERCLOCKWISE = false;
+   
+   public abstract void turn( boolean direction );
+   } // end interface CanTurn

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createPiece()
+comment1.params=
+comment1.target=void\ setSideL()
+comment2.params=
+comment2.target=void\ adjustSidePieces()
+comment3.params=clockPath
+comment3.target=void\ turn(boolean)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
